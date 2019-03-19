@@ -2,12 +2,12 @@ INSERT INTO Les_plantes VALUES
    ( 01
    , 'Figuier ' 
    , 'Ordre : Rosales, Famille : Moraceae, Genre : Ficus'
-   , '- Arbuste de 2-5 mètres, odorant, à suc laiteux abondant 
-      - feuilles alternes, pétiolées, palmatilobées en coeur, à 3-7 lobes obtus ondulés-dentés, 		épaisses, pubescentes-rudes, à stipules caduques 
-      - fleurs monoïques, nombreuses, pédicellées, réunies dans l'intérieur d'un réceptacle en poire, à 	peine ouvert au sommet, charnu, vert jaunâtre ou violacé 
-      - les supérieures mâles, à périanthe à 3 divisions, 3 étamines dressées, opposées aux sépales 
-      - les inférieures femelles, à périanthe à 5 lobes et à tube décurrent sur le pédicelle, 2 styles 		latéraux 
-      - fruits très petites, drupacés, renfermés dans le réceptacle accrescent et à la fin caduc.'
+   , '- Arbuste de 2-5 mÃ¨tres, odorant, Ã  suc laiteux abondant 
+      - feuilles alternes, pÃ©tiolÃ©es, palmatilobÃ©es en coeur, Ã  3-7 lobes obtus ondulÃ©s-dentÃ©s,Ã©paisses, pubescentes-rudes, Ã  stipules caduques 
+      - fleurs monoÃ¯ques, nombreuses, pÃ©dicellÃ©es, rÃ©unies dans l"intÃ©rieur d"un rÃ©ceptacle en poire, Ã  peine ouvert au sommet, charnu,vert jaunÃ¢tre ou violacÃ© 
+      - les supÃ©rieures mÃ¢les, Ã  pÃ©rianthe Ã  3 divisions, 3 Ã©tamines dressÃ©es, opposÃ©es aux sÃ©pales 
+      - les infÃ©rieures femelles, Ã  pÃ©rianthe Ã  5 lobes et Ã  tube dÃ©current sur le pÃ©dicelle, 2 styles latÃ©raux 
+      - fruits trÃ¨s petites, drupacÃ©s, renfermÃ©s dans le rÃ©ceptacle accrescent et Ã  la fin caduc.'
     ,'Juin-septembre'
    );
 
@@ -16,25 +16,26 @@ INSERT INTO Les_plantes VALUES
    , 'Julienne des dames' 
    , 'Ordre : Brassicales, Famille : Brassicaceae ,Genre : Hesperis'
    , '- . Plante bisannuelle ou vivace 
-      - tige de 40-80 cm, dressée, rameuse au sommet 
-      - feuilles oblongues ou lancéolées, dentées, rudes, les supérieures brièvement pétiolées 
-      - fleurs lilacées, blanches ou panachées, odorantes 
-      - sépales égalant le pédicelle ou plus courts 
-      - grappe fructifère longue, peu fournie 
-      - siliques ascendantes, grêles, flexueuses ou courbées, glabres ou finement pubescentes.'
+      - tige de 40-80 cm, dressÃ©e, rameuse au sommet 
+      - feuilles oblongues ou lancÃ©olÃ©es, dentÃ©es, rudes, les supÃ©rieures briÃ¨vement pÃ©tiolÃ©es 
+      - fleurs lilacÃ©es, blanches ou panachÃ©es, odorantes 
+      - sÃ©pales Ã©galant le pÃ©dicelle ou plus courts 
+      - grappe fructifÃ¨re longue, peu fournie 
+      - siliques ascendantes, grÃªles, flexueuses ou courbÃ©es, glabres ou finement pubescentes.'
    ,'Mai-juin'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 03
-   , 'Érable champêtre' 
+   , 'Ã‰rable champÃªtre' 
    , 'Ordre : Sapindales, Famille : Sapindaceae, Genre : Acer'
-   , '- . Arbre assez élevé, à écorce crevassée-subéreuse 
-      - feuilles assez petites, un peu fermes, vertes sur les deux faces, pubescentes surtout en 		dessous, en coeur à la base, à 8 lobes sinués-lobés, obtus ou subaigus, séparés par des sinus 		profonds, à angles aigus un peu émoussés au sommet 
-      - fleurs d'un vert jaunâtre, paraissant avec les feuilles, en corymbes rameux, dressés, 		subsessiles 
-      - pédicelles, sépales et pétales velus 
-      - filets des étamines glabres 
-      - samares pubescentes ou glabres, à coques peu renflées, lisses, à ailes étalées horizontalement, 	non rétrécies à la base.'
+   , '- . Arbre assez Ã©levÃ©, Ã  Ã©corce crevassÃ©e-subÃ©reuse 
+      - feuilles assez petites, un peu fermes, vertes sur les deux faces, pubescentes surtout en dessous, en coeur Ã  la base, Ã  8 lobes sinuÃ©s-lobÃ©s, obtus ou subaigus,
+	    sÃ©parÃ©s par des sinus profonds, Ã  angles aigus un peu Ã©moussÃ©s au sommet 
+      - fleurs d"un vert jaunÃ¢tre, paraissant avec les feuilles, en corymbes rameux, dressÃ©s,subsessiles 
+      - pÃ©dicelles, sÃ©pales et pÃ©tales velus 
+      - filets des Ã©tamines glabres 
+      - samares pubescentes ou glabres, Ã  coques peu renflÃ©es, lisses, Ã  ailes Ã©talÃ©es horizontalement,non rÃ©trÃ©cies Ã  la base.'
     ,'mai'
    );
 
@@ -42,10 +43,11 @@ INSERT INTO Les_plantes VALUES
    ( 04
    , 'Mimosa' 
    , 'Ordre : Fabales, Famille : Fabaceae, Genre : Acacia'
-   , '-Feuilles composées de folioles subdivisées en foliolules : c'est une fleur bipennée
-      -Inflorescence de couleurs jaunes en boule appelée glumérule composée de fleurs sessiles
-      -Il y a 5 sépales, 5 pétales, de nombreuses étamines dont il est impossible de compter le nombre 		et donnent la couleur jaune de l'inflorescence, et de 1 carpelle. La fleur est actinomorphe
-	Le fruit est une gousse'
+   , '-Feuilles composÃ©es de folioles subdivisÃ©es en foliolules : c"est une fleur bipennÃ©e
+      -Inflorescence de couleurs jaunes en boule appelÃ©e glumÃ©rule composÃ©e de fleurs sessiles
+      -Il y a 5 sÃ©pales, 5 pÃ©tales, de nombreuses Ã©tamines dont il est impossible de compter le nombre et donnent la couleur jaune de l"inflorescence, 
+	   et de 1 carpelle. La fleur est actinomorphe
+	  -Le fruit est une gousse'
     ,'Janvier-mars'
    );
 
@@ -53,59 +55,60 @@ INSERT INTO Les_plantes VALUES
    ( 05
    , 'Millet capillaire' 
    , 'Cladus : Poales, Famille : Poaceae, Genre : Panicum'
-   , '- Plante annuelle de 30-80 cm, velue, à racine fibreuse 
-      - tige robuste, dressée, lisse
-      - feuilles larges de 8-14 mm molles, très velues surtout sur les gaines, la supérieure embrassant 	souvent la base de la panicule 
+   , '- Plante annuelle de 30-80 cm, velue, Ã  racine fibreuse 
+      - tige robuste, dressÃ©e, lisse
+      - feuilles larges de 8-14 mm molles, trÃ¨s velues surtout sur les gaines, la supÃ©rieure embrassant souvent la base de la panicule 
       - ligule poilue 
-      - panicule très ample, dressée, verte ou violacée, très rameuse, à rameaux capillaires très longs 	et étalés 
-      - épillets très petites (2 mm), oblongs-acuminés 
-      - glumes très inégales, l'inférieure ovale-triangulaire aiguë, trinervée, trois fois plus courte 		que la supérieure acuminée 
-      - glumelle stérile unique. '
+      - panicule trÃ¨s ample, dressÃ©e, verte ou violacÃ©e, trÃ¨s rameuse, Ã  rameaux capillaires trÃ¨s longs et Ã©talÃ©s 
+      - Ã©pillets trÃ¨s petites (2 mm), oblongs-acuminÃ©s 
+      - glumes trÃ¨s inÃ©gales, l"infÃ©rieure ovale-triangulaire aiguÃ«, trinervÃ©e, trois fois plus courte que la supÃ©rieure acuminÃ©e 
+      - glumelle stÃ©rile unique. '
     ,'Juillet-octobre'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 06
-   , 'Érable de Montpellier' 
+   , 'Ã‰rable de Montpellier' 
    , 'Ordre : Sapindales, Famille : Sapindaceae, Genre : Acer'
-   , '- Arbre ou arbuste atteignant au plus 5-6 mètres, à écorce fendillée 
-      - feuilles petites, coriaces, glabres, vertes et luisantes en dessus, mates et glauques en 		dessous, à  peine en coeur à la base, à 3 lobes triangulaires obtus, presque égaux et entiers, 		séparés par des sinus formant presque un angle droit 
-      - fleurs d'un jaune verdâtre, paraissant avant ou avec les premières feuilles, en corymbes à la 		fin penchés, sessiles 
-      - pétales et filets des étamines glabres 
-      - samares glabres, petites, à coques très convexes, veinées, à ailes dressées-convergentes, 		rétrécies à la base. '
+   , '- Arbre ou arbuste atteignant au plus 5-6 mÃ¨tres, Ã  Ã©corce fendillÃ©e 
+      - feuilles petites, coriaces, glabres, vertes et luisantes en dessus, mates et glauques en dessous, Ã   peine en coeur Ã  la base, Ã  3 lobes triangulaires obtus, 
+	    presque Ã©gaux et entiers, sÃ©parÃ©s par des sinus formant presque un angle droit 
+      - fleurs d"un jaune verdÃ¢tre, paraissant avant ou avec les premiÃ¨res feuilles, en corymbes Ã  la fin penchÃ©s, sessiles 
+      - pÃ©tales et filets des Ã©tamines glabres 
+      - samares glabres, petites, Ã  coques trÃ¨s convexes, veinÃ©es, Ã  ailes dressÃ©es-convergentes, rÃ©trÃ©cies Ã  la base. '
     ,'Avril-mai'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 07
-   , 'Ciguë des jardins' 
-   , 'Genre : Aethusa, Espèce : Aethusa cynapium, Sous-Espèce : Aethusa cynapium subsp. cynapium'
-   , '- Plante annuelle de 20-60 cm, glabre, d'un vert sombre 
-      - tige striée, creuse, rameuse, souvent glaucescente et sillonnée de lignes rougeâtres 
-      - feuilles molles, triangulaires dans leur pourtour, bi-tripennatiséquées, à segments ovales-		lancéolés,  incisés en lobes lancéolés-linéaires 
-      - fleurs blanches, en ombelles à 5-12 rayons inégaux 
-      - involucre nul ou à 1 foliole 
-      - involucelle à 3-5 folioles linéaires, réfléchies, déjetées en dehors, plus longues que 		l'ombellule 
-      - calice à limbe nul 
-      - pétales obovales, émarginés, à pointe courbée, les extérieurs rayonnants 
-      - fruit ovoïde-subglobuleux, non comprimé, glabre 
-      - méricarpes à 5 côtes saillantes, épaisses, carénées, les marginales un peu plus larges. Varie à 	tige naine de 5-15 cm, ou haute de 1 à 2 mètres, ombelles à 10-20 rayons.'
+   , 'CiguÃ« des jardins' 
+   , 'Genre : Aethusa, EspÃ¨ce : Aethusa cynapium, Sous-EspÃ¨ce : Aethusa cynapium subsp. cynapium'
+   , '- Plante annuelle de 20-60 cm, glabre, d"un vert sombre 
+      - tige striÃ©e, creuse, rameuse, souvent glaucescente et sillonnÃ©e de lignes rougeÃ¢tres 
+      - feuilles molles, triangulaires dans leur pourtour, bi-tripennatisÃ©quÃ©es, Ã  segments ovales-lancÃ©olÃ©s,incisÃ©s en lobes lancÃ©olÃ©s-linÃ©aires 
+      - fleurs blanches, en ombelles Ã  5-12 rayons inÃ©gaux 
+      - involucre nul ou Ã  1 foliole 
+      - involucelle Ã  3-5 folioles linÃ©aires, rÃ©flÃ©chies, dÃ©jetÃ©es en dehors, plus longues que l"ombellule 
+      - calice Ã  limbe nul 
+      - pÃ©tales obovales, Ã©marginÃ©s, Ã  pointe courbÃ©e, les extÃ©rieurs rayonnants 
+      - fruit ovoÃ¯de-subglobuleux, non comprimÃ©, glabre 
+      - mÃ©ricarpes Ã  5 cÃ´tes saillantes, Ã©paisses, carÃ©nÃ©es, les marginales un peu plus larges. Varie Ã  tige naine de 5-15 cm, ou haute de 1 Ã  2 mÃ¨tres, ombelles Ã  10-20 rayons.'
     ,'Juin-octobre'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 08
-   , 'Henné jaune' 
+   , 'HennÃ© jaune' 
    , 'Ordre : Boraginales, Famille : Boraginaceae, Genre : Alkanna'
-   , '- Plante annuelle de 30-80 cm, hérissée de longs poils étalés et d'une pubescence glanduleuse, à 		racine grêle pivotante 
-      - tiges étalées-diffuses, à nombreux rameaux allongés 
-      - feuilles oblongues-lancéolées, les inférieures courtement pétiolées, les autres sessiles 
-      - fleurs jaunes, petites, en grappes à la fin très allongées 
-      - bractées foliacées, ovales-lancéolées, dépassant le calice 
-      - pédicelles très courts, recourbés après la floraison 
-      - calice à lobes lancéolés aigus, à la fin étalés-dressés 
-      - corolle glabre à la gorge 
-      - carpelles mûrs noirs, petites, finement ridés. '
+   , '- Plante annuelle de 30-80 cm, hÃ©rissÃ©e de longs poils Ã©talÃ©s et d"une pubescence glanduleuse, Ã  racine grÃªle pivotante 
+      - tiges Ã©talÃ©es-diffuses, Ã  nombreux rameaux allongÃ©s 
+      - feuilles oblongues-lancÃ©olÃ©es, les infÃ©rieures courtement pÃ©tiolÃ©es, les autres sessiles 
+      - fleurs jaunes, petites, en grappes Ã  la fin trÃ¨s allongÃ©es 
+      - bractÃ©es foliacÃ©es, ovales-lancÃ©olÃ©es, dÃ©passant le calice 
+      - pÃ©dicelles trÃ¨s courts, recourbÃ©s aprÃ¨s la floraison 
+      - calice Ã  lobes lancÃ©olÃ©s aigus, Ã  la fin Ã©talÃ©s-dressÃ©s 
+      - corolle glabre Ã  la gorge 
+      - carpelles mÃ»rs noirs, petites, finement ridÃ©s. '
     ,'Avril-juin'
    );
 
@@ -113,16 +116,16 @@ INSERT INTO Les_plantes VALUES
    ( 09
    , 'Aneth' 
    , 'Ordre : Apiales, Famille : Apiaceae, Genre : Anethum'
-   , '- Plante annuelle de 20-50 cm, glabre, glaucescente, fétide, à racine pivotante 
-      - tige grêle, striée, creuse 
-      - feuilles tripennatiséquées, toutes finement divisées en lanières filiformes, les supérieures 		sessiles sur une gaine plus courte que le limbe 
-      - fleurs jaunes, en ombelles à 15-30 rayons inégaux 
+   , '- Plante annuelle de 20-50 cm, glabre, glaucescente, fÃ©tide, Ã  racine pivotante 
+      - tige grÃªle, striÃ©e, creuse 
+      - feuilles tripennatisÃ©quÃ©es, toutes finement divisÃ©es en laniÃ¨res filiformes, les supÃ©rieures sessiles sur une gaine plus courte que le limbe 
+      - fleurs jaunes, en ombelles Ã  15-30 rayons inÃ©gaux 
       - involucre et involucelle nuls 
-      - calice à limbe nul 
-      - pétales entiers, suborbiculaires-tronqués, à pointe courbée en dedans 
-      - fruit ovale-elliptique, comprimé par le dos, entouré d'un large rebord plan 
-      - méricarpes à 5 côtes, les trois dorsales saillantes, filiformes, carénées, les deux marginales 		dilatées en aile aplanie 
-      - graine à face commissurale plane. '
+      - calice Ã  limbe nul 
+      - pÃ©tales entiers, suborbiculaires-tronquÃ©s, Ã  pointe courbÃ©e en dedans 
+      - fruit ovale-elliptique, comprimÃ© par le dos, entourÃ© d"un large rebord plan 
+      - mÃ©ricarpes Ã  5 cÃ´tes, les trois dorsales saillantes, filiformes, carÃ©nÃ©es, les deux marginales dilatÃ©es en aile aplanie 
+      - graine Ã  face commissurale plane. '
     ,'Juillet'
    );
 
@@ -130,40 +133,41 @@ INSERT INTO Les_plantes VALUES
    ( 10
    , 'Bardane tomenteuse' 
    , 'Ordre : Asterales, Famille : Asteraceae, Genre : Arctium'
-   , '- Plante bisannuelle. Port et feuillage des deux espèces précédentes : tige plus courte, 		capitules un peu plus gros que ceux de L. minor, assez longuement pédoncules en corymbe moins 		lâche que L. officinalis 
-      - involucre couvert d'un duvet aranéeux, blanc, très abondant, à folioles intérieures plus 		courtes que les fleurs, purpurines au sommet ainsi que les folioles moyennes 
-      - akènes longs de 6 à 7 mm 
+   , '- Plante bisannuelle. Port et feuillage des deux espÃ¨ces prÃ©cÃ©dentes : tige plus courte,capitules un peu plus gros que ceux de L. minor, 
+        assez longuement pÃ©doncules en corymbe moins lÃ¢che que L. officinalis 
+      - involucre couvert d"un duvet aranÃ©eux, blanc, trÃ¨s abondant, Ã  folioles intÃ©rieures plus courtes que les fleurs, purpurines au sommet ainsi que les folioles moyennes 
+      - akÃ¨nes longs de 6 Ã  7 mm 
       - fleurs purpurines. '
-    ,'Juillet-août'
+    ,'Juillet-aoÃ»t'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 11
    , 'aiglantine' 
    , 'Ordre : Ranunculales, Famille : Ranunculaceae, Genre : Aquilegia'
-   , '- Tige de 30 cm à 1 mètre, pubescente, rameuse dans le haut 
-      - feuilles inférieures longuement pétiolées, biternées, à folioles larges de 3-4 cm, incisées peu 	profondément, les supérieures sessiles, à lobes souvent entiers 
-      - fleurs bleues rarement roses ou blanches, grandes, longuement pédonculées, en panicule lâche 
-      - pétales à lame arrondie ou tronquée 
-      - éperon recourbé en crochet, égalant la lame ou plus court 
-      - étamines dépassant un peu la lame 
-      - filets stériles obtus 
-      - follicules grands, ventrus. Varie à fleurs petites, d'un violet noirâtre, à étamines longuement 	saillantes et à folioles plus découpées.'
+   , '- Tige de 30 cm Ã  1 mÃ¨tre, pubescente, rameuse dans le haut 
+      - feuilles infÃ©rieures longuement pÃ©tiolÃ©es, biternÃ©es, Ã  folioles larges de 3-4 cm, incisÃ©es peu profondÃ©ment, les supÃ©rieures sessiles, Ã  lobes souvent entiers 
+      - fleurs bleues rarement roses ou blanches, grandes, longuement pÃ©donculÃ©es, en panicule lÃ¢che 
+      - pÃ©tales Ã  lame arrondie ou tronquÃ©e 
+      - Ã©peron recourbÃ© en crochet, Ã©galant la lame ou plus court 
+      - Ã©tamines dÃ©passant un peu la lame 
+      - filets stÃ©riles obtus 
+      - follicules grands, ventrus. Varie Ã  fleurs petites, d"un violet noirÃ¢tre, Ã  Ã©tamines longuement saillantes et Ã  folioles plus dÃ©coupÃ©es.'
     ,'Mai-Juillet'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 12
-   , 'Arméria des sables' 
-   , 'Famille : Plumbaginaceae, Genre : Armeria, Espèce : Armeria arenaria'
+   , 'ArmÃ©ria des sables' 
+   , 'Famille : Plumbaginaceae, Genre : Armeria, EspÃ¨ce : Armeria arenaria'
    , '- Plante vivace de 20-60 cm, glabre, gazonnante 
-      - feuilles un peu fermes, linéaires-lancéolées ou lancéolées, acuminées, planes, à 3-7 nervures 
+      - feuilles un peu fermes, linÃ©aires-lancÃ©olÃ©es ou lancÃ©olÃ©es, acuminÃ©es, planes, Ã  3-7 nervures 
       - hampes fortes 
-      - gaîne allongée (2-4 cm), 2-4 fois plus longue que le capitule subglobuleux large d'environ 2 cm 
+      - gaÃ®ne allongÃ©e (2-4 cm), 2-4 fois plus longue que le capitule subglobuleux large d"environ 2 cm 
       - fleurs roses 
-      - involucre fauve, à folioles plurisériées, les extérieures triangulaires-lancéolées, acuminées 		en pointe égalant presque ou dépassant les fleurs 
-      - bractéoles égalant le fruit 
-      - calice à tube égalant le pédicelle, à côtes aussi larges que les sillons, à lobes ovales-		lancéolés, atténués en arête aussi longue qu'eux. Plante polymorphe.'
+      - involucre fauve, Ã  folioles plurisÃ©riÃ©es, les extÃ©rieures triangulaires-lancÃ©olÃ©es, acuminÃ©es en pointe Ã©galant presque ou dÃ©passant les fleurs 
+      - bractÃ©oles Ã©galant le fruit 
+      - calice Ã  tube Ã©galant le pÃ©dicelle, Ã  cÃ´tes aussi larges que les sillons, Ã  lobes ovales-lancÃ©olÃ©s, attÃ©nuÃ©s en arÃªte aussi longue qu"eux. Plante polymorphe.'
     ,'Mai-septembre'
    );
 
@@ -171,13 +175,13 @@ INSERT INTO Les_plantes VALUES
    ( 13
    , 'Ballote noire' 
    , 'Ordre : Vitales, Famille : Vitaceae, Genre : Vitis'
-   , '- Plante vivace de 40-80 cm, velue, d'un vert sombre, à odeur fétide 
-      - tiges herbacées, quadrangulaires, rameuses, feuillées jusqu'à la base 
-      - feuilles ovales ou arrondies, irrégulièrement crénelées tout autour, nervées-réticulées 
-      - fleurs purpurines, rarement blanches, en verticilles fournis, compacts, écartés, souvent 	pédoncules 
-      - bractéoles nombreuses, dressées, molles, sétacées, ciliées 
-      - calice velu, élargi à la gorge, à 5 dents égales étalées et brièvement mucronées 
-      - corolle à tube dépassant la gorge du calice, à lèvre supérieure couverte en dehors de poils 	blancs appliqués. '
+   , '- Plante vivace de 40-80 cm, velue, d"un vert sombre, Ã  odeur fÃ©tide 
+      - tiges herbacÃ©es, quadrangulaires, rameuses, feuillÃ©es jusqu"Ã  la base 
+      - feuilles ovales ou arrondies, irrÃ©guliÃ¨rement crÃ©nelÃ©es tout autour, nervÃ©es-rÃ©ticulÃ©es 
+      - fleurs purpurines, rarement blanches, en verticilles fournis, compacts, Ã©cartÃ©s, souvent pÃ©doncules 
+      - bractÃ©oles nombreuses, dressÃ©es, molles, sÃ©tacÃ©es, ciliÃ©es 
+      - calice velu, Ã©largi Ã  la gorge, Ã  5 dents Ã©gales Ã©talÃ©es et briÃ¨vement mucronÃ©es 
+      - corolle Ã  tube dÃ©passant la gorge du calice, Ã  lÃ¨vre supÃ©rieure couverte en dehors de poils blancs appliquÃ©s. '
     ,'Mai-septembre'
    );
 
@@ -185,14 +189,14 @@ INSERT INTO Les_plantes VALUES
    ( 14
    , 'Vigne' 
    , 'Cladus : Polypodiidae, Famille : Aspleniaceae, Genre : Asplenium'
-   , '-Arbuste sarmenteux, grimpant, muni de vrilles opposées aux feuilles 
-      - feuilles alternes, pétiolées, palmatilobées, en coeur à la base, à 8 lobes aigus, sinués 		dentés, souvent velues en dessous, à stipules caduques 
-      - fleurs régulières, petites, verdâtres, odorantes, en thyrses denses, opposés aux feuilles, 		d'abord dressés, puis penchés 
-      - calice monosépale, à 5 dents très courtes, caduques 
-      - 8 pétales, soudés au sommet et à la base, très fugaces 
-      - 5 étamines, insérées sur un disque hypogyne glanduleux, opposées aux pétales 
-      - 1 style très court, stigmate en tête 
-      - baie ovoïde ou globuleuse, noire ou blanchâtre, acidulée à l'état sauvage, à 1 loge et à 8 		graines osseuses.'
+   , '-Arbuste sarmenteux, grimpant, muni de vrilles opposÃ©es aux feuilles 
+      - feuilles alternes, pÃ©tiolÃ©es, palmatilobÃ©es, en coeur Ã  la base, Ã  8 lobes aigus, sinuÃ©s dentÃ©s, souvent velues en dessous, Ã  stipules caduques 
+      - fleurs rÃ©guliÃ¨res, petites, verdÃ¢tres, odorantes, en thyrses denses, opposÃ©s aux feuilles, d"abord dressÃ©s, puis penchÃ©s 
+      - calice monosÃ©pale, Ã  5 dents trÃ¨s courtes, caduques 
+      - 8 pÃ©tales, soudÃ©s au sommet et Ã  la base, trÃ¨s fugaces 
+      - 5 Ã©tamines, insÃ©rÃ©es sur un disque hypogyne glanduleux, opposÃ©es aux pÃ©tales 
+      - 1 style trÃ¨s court, stigmate en tÃªte 
+      - baie ovoÃ¯de ou globuleuse, noire ou blanchÃ¢tre, acidulÃ©e Ã  l"Ã©tat sauvage, Ã  1 loge et Ã  8 graines osseuses.'
     ,'juin '
    );
 
@@ -200,27 +204,28 @@ INSERT INTO Les_plantes VALUES
    ( 15
    , 'Portefeuille' 
    , 'Ordre : Boraginales, Famille : Boraginaceae, Genre : Asperugo'
-   , '- . Plante annuelle de 20-60 cm, hérissée-scabre, à tiges couchées-diffuses, faibles, rameuses 	dès la base 
-      - feuilles rudes, ciliées, elliptiques-oblongues, pétiolées ou atténuées à la base, les florales 	opposées 
-      - fleurs bleuâtres, peu apparentes, opposées aux feuilles 
-      - pédicelles très courts, à la fin recourbés 
-      - calice irrégulier, d'abord à 5 lobes lancéolés, ensuite foliacé, comprimé en 2 valves planes 	contiguës, sinuées-dentées, veinées en réseau 
-      - corolle égalant le calice, en entonnoir, à tube court, à gorge fermée par 5 écailles obtuses 	convexes et conniventes, à 5 lobes obtus 
-      - carpelles contigus, ovales-obtus, verruqueux, soudés à l'axe central par le sommet de leur 	angle interne.'
-    ,'Avril-août'
+   , '- . Plante annuelle de 20-60 cm, hÃ©rissÃ©e-scabre, Ã  tiges couchÃ©es-diffuses, faibles, rameuses 	dÃ¨s la base 
+      - feuilles rudes, ciliÃ©es, elliptiques-oblongues, pÃ©tiolÃ©es ou attÃ©nuÃ©es Ã  la base, les florales 	opposÃ©es 
+      - fleurs bleuÃ¢tres, peu apparentes, opposÃ©es aux feuilles 
+      - pÃ©dicelles trÃ¨s courts, Ã  la fin recourbÃ©s 
+      - calice irrÃ©gulier, d"abord Ã  5 lobes lancÃ©olÃ©s, ensuite foliacÃ©, comprimÃ© en 2 valves planes contiguÃ«s, sinuÃ©es-dentÃ©es, veinÃ©es en rÃ©seau 
+      - corolle Ã©galant le calice, en entonnoir, Ã  tube court, Ã  gorge fermÃ©e par 5 Ã©cailles obtuses convexes et conniventes, Ã  5 lobes obtus 
+      - carpelles contigus, ovales-obtus, verruqueux, soudÃ©s Ã  l"axe central par le sommet de leur 	angle interne.'
+    ,'Avril-aoÃ»t'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 16
    , 'Absinthe' 
    , 'Ordre : Asterales, Famille : Asteraceae, Genre : Artemisia'
-   , '- Plante vivace de 4-6 dm herbacée, dressée, blanchâtre 
-      - feuilles soyeuses, blanches en dessous, verdâtres en dessus, pétiolées à pétiole non auriculé, 	ovales, les caulinaires bipennatiséquées à lobes oblongs, linéaires ou lancéolés, obtus 
-      - involucre blanchâtre, à folioles extérieures linéaires à peine scarieuses, les intérieures 	ovales, très obtuses, largement scarieuses 
-      - akènes lisses
-      - réceptacle couvert de longs poils blancs 
-      - capitules globuleux, assez petites, 3 à 4 mm de diamètre, brièvement pédicellés, penchés, en 	grande panicule feuillée à rameaux dressés 
-      - plante très odorante.'
+   , '- Plante vivace de 4-6 dm herbacÃ©e, dressÃ©e, blanchÃ¢tre 
+      - feuilles soyeuses, blanches en dessous, verdÃ¢tres en dessus, pÃ©tiolÃ©es Ã  pÃ©tiole non auriculÃ©, 	ovales, les caulinaires bipennatisÃ©quÃ©es Ã  lobes oblongs,
+	    linÃ©aires ou lancÃ©olÃ©s, obtus 
+      - involucre blanchÃ¢tre, Ã  folioles extÃ©rieures linÃ©aires Ã  peine scarieuses, les intÃ©rieures ovales, trÃ¨s obtuses, largement scarieuses 
+      - akÃ¨nes lisses
+      - rÃ©ceptacle couvert de longs poils blancs 
+      - capitules globuleux, assez petites, 3 Ã  4 mm de diamÃ¨tre, briÃ¨vement pÃ©dicellÃ©s, penchÃ©s, en grande panicule feuillÃ©e Ã  rameaux dressÃ©s 
+      - plante trÃ¨s odorante.'
     ,'Juillet-septembre'
    );
 
@@ -228,20 +233,24 @@ INSERT INTO Les_plantes VALUES
    ( 17
    , 'Arnica' 
    , 'Ordre : Asterales, Famille : Asteraceae, Genre : Arnica'
-   , '- Plante vivace de 2-6 dm à tige dressée, simple ou peu rameuse, brièvement pubescente-		glanduleuse 
-      - feuilles un peu fermes, sessiles, entières ou à dents obscures, ovales-lancéolées ou 	oblongues-lancéolées, glabrescentes, les radicales étalées en rosette, les caulinaires opposées 	au nombre de une ou deux paires 
-      - involucre à folioles lancéolées, aiguës 
-      - akènes pubescents 
-      - capitules grands, 7 à 8 cm de diamètre, solitaires ou assez souvent 3-4 terminant les rameaux 	opposés 
-      - fleurs d'un jaune-orangé.'
+   , '- Plante vivace de 2-6 dm Ã  tige dressÃ©e, simple ou peu rameuse, briÃ¨vement pubescente-glanduleuse 
+      - feuilles un peu fermes, sessiles, entiÃ¨res ou Ã  dents obscures, ovales-lancÃ©olÃ©es ou oblongues-lancÃ©olÃ©es, glabrescentes, les radicales Ã©talÃ©es en rosette,
+	    les caulinaires opposÃ©es au nombre de une ou deux paires 
+      - involucre Ã  folioles lancÃ©olÃ©es, aiguÃ«s 
+      - akÃ¨nes pubescents 
+      - capitules grands, 7 Ã  8 cm de diamÃ¨tre, solitaires ou assez souvent 3-4 terminant les rameaux opposÃ©s 
+      - fleurs d"un jaune-orangÃ©.'
     ,'Juin-juillet'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 18
-   , 'Grémil bleu pourpre' 
+   , 'GrÃ©mil bleu pourpre' 
    , 'Ordre : Boraginales, Famille : Boraginaceae, Genre : Buglossoides'
-   , 'Plante vivace aux fleurs violacées puis bleu-azur. Les graines sont blanches, brillantes, et très 	dures. Ces caractéristiques ont donné son nom à la plante : Lithospermum purpurocaeruleum. La 	taille de ce Grémil est généralement de 30 cm de hauteur et il s'étend sur environ 1 mètre de 	long avec de nombreuses pousses qui drageonnent. Les feuilles sont étroites.'
+   , 'Plante vivace aux fleurs violacÃ©es puis bleu-azur. Les graines sont blanches, brillantes, et trÃ¨s dures.
+      Ces caractÃ©ristiques ont donnÃ© son nom Ã  la plante : Lithospermum purpurocaeruleum. 
+	  La taille de ce GrÃ©mil est gÃ©nÃ©ralement de 30 cm de hauteur et il s"Ã©tend sur environ 1 mÃ¨tre de long avec de nombreuses pousses qui drageonnent. 
+	  Les feuilles sont Ã©troites.'
     ,'Avril-juin'
    );
 
@@ -249,75 +258,76 @@ INSERT INTO Les_plantes VALUES
    ( 19
    , 'Colza' 
    , 'Ordre : Brassicales, Famille : Brassicaceae, Genre : Brassica'
-   , '- Plante annuelle ou bisannuelle, herbacée 
-      - tige de 1 mètre 
-      - feuilles toutes glabres et glauques, les inférieures lyrées-pennatipartites, les supérieures  	oblongues, rétrécies au-dessus de la base, embrassantes-auriculées 
-      - fleurs d'un jaune d'or, grandes, espacées, même à la floraison 
-      - sépales un peu étalés 
-      - étamines latérales ascendantes 
-      - siliques à bec 4-5 fois plus court que les valves 
-      - graines finement ponctuées. Varie à racine grosse, charnue, comestible 
-      - à racine grêle et à graines oléagineuses'
+   , '- Plante annuelle ou bisannuelle, herbacÃ©e 
+      - tige de 1 mÃ¨tre 
+      - feuilles toutes glabres et glauques, les infÃ©rieures lyrÃ©es-pennatipartites, les supÃ©rieures  	oblongues, rÃ©trÃ©cies au-dessus de la base, embrassantes-auriculÃ©es 
+      - fleurs d"un jaune d"or, grandes, espacÃ©es, mÃªme Ã  la floraison 
+      - sÃ©pales un peu Ã©talÃ©s 
+      - Ã©tamines latÃ©rales ascendantes 
+      - siliques Ã  bec 4-5 fois plus court que les valves 
+      - graines finement ponctuÃ©es. Varie Ã  racine grosse, charnue, comestible 
+      - Ã  racine grÃªle et Ã  graines olÃ©agineuses'
     ,'Avril-juin'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 20
-   , 'Psoralée à odeur de bitume' 
+   , 'PsoralÃ©e Ã  odeur de bitume' 
    , 'Ordre : Fabales, Famille : Fabaceae, Genre : Bituminaria'
-   , '- Plante vivace de 50 cm à 1 mètre, herbacée, pubescente-glanduleuse, dressée, à forte odeur de 	bitume 
-      - feuilles trifoliolées, à folioles elliptiques ou lancéolées, entières, ponctuées-glanduleuses 
-      - stipules libres, linéaires acuminées 
-      - fleurs bleuâtres, 10-15 en têtes subglobuleuses, involucrées, serrées, sur des pédoncules 	axillaires 2-4 fois plus longs que la feuille 
-      - calice velu, en cloche, à 5 dents inégales, lancéolées-linéaires, égalant le tube 
-      - étendard oblong, dépassant les ailes et la carène obtuse 
-      - étamines diadelphes 
-      - stigmate en tête 
-      - gousse incluse, ovale-comprimée, à bec ensiforme 2 fois plus long quelle, non stipitée, velue, 	indéhiscente, à une seule graine. Varie à plante plus hérissée, plus robuste, fleurs plus 	nombreuses çà têtes grosses, dents du calice fortement ciliées-plumeuses.'
+   , '- Plante vivace de 50 cm Ã  1 mÃ¨tre, herbacÃ©e, pubescente-glanduleuse, dressÃ©e, Ã  forte odeur de 	bitume 
+      - feuilles trifoliolÃ©es, Ã  folioles elliptiques ou lancÃ©olÃ©es, entiÃ¨res, ponctuÃ©es-glanduleuses 
+      - stipules libres, linÃ©aires acuminÃ©es 
+      - fleurs bleuÃ¢tres, 10-15 en tÃªtes subglobuleuses, involucrÃ©es, serrÃ©es, sur des pÃ©doncules axillaires 2-4 fois plus longs que la feuille 
+      - calice velu, en cloche, Ã  5 dents inÃ©gales, lancÃ©olÃ©es-linÃ©aires, Ã©galant le tube 
+      - Ã©tendard oblong, dÃ©passant les ailes et la carÃ¨ne obtuse 
+      - Ã©tamines diadelphes 
+      - stigmate en tÃªte 
+      - gousse incluse, ovale-comprimÃ©e, Ã  bec ensiforme 2 fois plus long quelle, non stipitÃ©e, velue, 	indÃ©hiscente, Ã  une seule graine.
+	    Varie Ã  plante plus hÃ©rissÃ©e, plus robuste, fleurs plus nombreuses Ã§Ã  tÃªtes grosses, dents du calice fortement ciliÃ©es-plumeuses.'
     ,'Mai-octobre'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 21
-   , 'Bâton de saint Jacques' 
+   , 'BÃ¢ton de saint Jacques' 
    , 'Ordre : Asterales, Famille : Campanulaceae, Genre : Campanula'
-   , '- Plante bisannuelle de 40-80 cm, velue et un peu rude, à racine charnue, en fuseau 
-      - tige effilée, simple ou rameuse au sommet, peu feuillée 
-      - feuilles inférieures oblongues, ondulées-crénelées, atténuées en pétiole, pubescentes ou 		glabres 
-      - fleurs bleues, nombreuses, en grappes longues et étroites munies à la base de rameaux courts et 	dressés 
-      - calice glabre, à lobes linéaires, égalant le milieu de la corolle 
-      - celle-ci moyenne (à peine 2 cm), glabre, plus longue que large, divisée jusqu'au tiers, à lobes 	lancéolés, peu étalés 
-      - capsule dressée. '
-    ,'Mai-août'
+   , '- Plante bisannuelle de 40-80 cm, velue et un peu rude, Ã  racine charnue, en fuseau 
+      - tige effilÃ©e, simple ou rameuse au sommet, peu feuillÃ©e 
+      - feuilles infÃ©rieures oblongues, ondulÃ©es-crÃ©nelÃ©es, attÃ©nuÃ©es en pÃ©tiole, pubescentes ou glabres 
+      - fleurs bleues, nombreuses, en grappes longues et Ã©troites munies Ã  la base de rameaux courts et dressÃ©s 
+      - calice glabre, Ã  lobes linÃ©aires, Ã©galant le milieu de la corolle 
+      - celle-ci moyenne (Ã  peine 2 cm), glabre, plus longue que large, divisÃ©e jusqu"au tiers, Ã  lobes lancÃ©olÃ©s, peu Ã©talÃ©s 
+      - capsule dressÃ©e. '
+    ,'Mai-aoÃ»t'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 22
    , 'Callune' 
    , 'Ordre : Ericales, Famille : Ericaceae, Genre : Calluna'
-   , '- Sous-arbrisseau de 30 cm à 1 mètre, glabre, tortueux, diffus, à rameaux nombreux, effilés, 		dressés, rougeâtres 
-      - feuilles petites, opposées, densément imbriquées sur 4 rangs, linéaires, sessiles et à 2 	pointes à la base 
-      - fleurs roses, brièvement pédonculées, penchées, en grappes simples et lâches 
-      - calice pétaloïde, muni à la base de bractées vertes, à 4 lobes oblongs 
-      - corolle de moitié plus courte que le calice, marcescente, en cloche, à 4 lobes 
-      - 8 étamines, incluses 
-      - capsule velue, globuleuse, à cloisons opposées aux sutures des 4 valves. Varie à rameaux 	velus-grisâtres'
+   , '- Sous-arbrisseau de 30 cm Ã  1 mÃ¨tre, glabre, tortueux, diffus, Ã  rameaux nombreux, effilÃ©s, dressÃ©s, rougeÃ¢tres 
+      - feuilles petites, opposÃ©es, densÃ©ment imbriquÃ©es sur 4 rangs, linÃ©aires, sessiles et Ã  2 pointes Ã  la base 
+      - fleurs roses, briÃ¨vement pÃ©donculÃ©es, penchÃ©es, en grappes simples et lÃ¢ches 
+      - calice pÃ©taloÃ¯de, muni Ã  la base de bractÃ©es vertes, Ã  4 lobes oblongs 
+      - corolle de moitiÃ© plus courte que le calice, marcescente, en cloche, Ã  4 lobes 
+      - 8 Ã©tamines, incluses 
+      - capsule velue, globuleuse, Ã  cloisons opposÃ©es aux sutures des 4 valves. Varie Ã  rameaux velus-grisÃ¢tres'
     ,'Juillet-octobre'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 23
-   , 'Calépine' 
+   , 'CalÃ©pine' 
    , 'Ordre : Brassicales, Famille : Brassicaceae,Genre : Calepina'
    , '- Plante annuelle, glabre, un peu glauque 
-      - tiges de 30-80 cm, étalées-ascendantes 
-      - feuilles radicales en rosette, lyrées ou sinuées, les caulinaires oblongues, entières ou 	dentées, embrassantes-auriculées 
+      - tiges de 30-80 cm, Ã©talÃ©es-ascendantes 
+      - feuilles radicales en rosette, lyrÃ©es ou sinuÃ©es, les caulinaires oblongues, entiÃ¨res ou dentÃ©es, embrassantes-auriculÃ©es 
       - fleurs blanches, petites 
-      - sépales dressés, égaux à la base 
-      - les 2 pétales extérieurs un peu plus grands 
-      - grappe fructifère allongée, étroite, à pédicelles arqués-ascendants, 2-3 fois plus longs que 	les silicules 
-      - silicules ovoïdes-globuleuses, ridées en réseau, indéhiscentes, à 1 graine globuleuse 
-      - style court, épais, conique. '
+      - sÃ©pales dressÃ©s, Ã©gaux Ã  la base 
+      - les 2 pÃ©tales extÃ©rieurs un peu plus grands 
+      - grappe fructifÃ¨re allongÃ©e, Ã©troite, Ã  pÃ©dicelles arquÃ©s-ascendants, 2-3 fois plus longs que les silicules 
+      - silicules ovoÃ¯des-globuleuses, ridÃ©es en rÃ©seau, indÃ©hiscentes, Ã  1 graine globuleuse 
+      - style court, Ã©pais, conique. '
     ,'Avril-juillet'
    );
 
@@ -325,35 +335,41 @@ INSERT INTO Les_plantes VALUES
    ( 24
    , 'Fleur de tous les mois' 
    , 'Ordre : Asterales, Famille : Asteraceae, Genre : Calendula'
-   , '- Plante annuelle de 1-3 dm, dressée, ascendante ou diffuse, à rameaux étalés, pubescente 
-      - feuilles caulinaires oblongues-lancéolées, lâchement dentées ou entières, mucronées, sessiles 	et demi-embrassantes 
-      - involucre à folioles presque égales, oblongues-lancéolées, acuminées, à bords étroitement 	scarieux 
-      - akènes extérieurs arqués, épineux sur le dos, les intérieurs roulés en anneau, lisses ou 	épineux 
+   , '- Plante annuelle de 1-3 dm, dressÃ©e, ascendante ou diffuse, Ã  rameaux Ã©talÃ©s, pubescente 
+      - feuilles caulinaires oblongues-lancÃ©olÃ©es, lÃ¢chement dentÃ©es ou entiÃ¨res, mucronÃ©es, sessiles 	et demi-embrassantes 
+      - involucre Ã  folioles presque Ã©gales, oblongues-lancÃ©olÃ©es, acuminÃ©es, Ã  bords Ã©troitement 	scarieux 
+      - akÃ¨nes extÃ©rieurs arquÃ©s, Ã©pineux sur le dos, les intÃ©rieurs roulÃ©s en anneau, lisses ou 	Ã©pineux 
       - capitules assez grands, solitaires, terminant les rameaux 
-      - fleurs jaunes. Espèce polymorphe dans la région méditerranéenne.'
+      - fleurs jaunes. EspÃ¨ce polymorphe dans la rÃ©gion mÃ©diterranÃ©enne.'
     ,'Avril-octobre'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 25
-   , 'Buplèvre anguleux' 
+   , 'BuplÃ¨vre anguleux' 
    , 'Ordre : Apiales, Famille : Apiaceae, Genre : Bupleurum'
-   , '- Plante vivace de 40-50 cm, dressée, d'un vert glauque 
-      - tige pleine, simple ou presque simple, fouillée dans toute sa longueur 
-      - feuilles à 1 nervure, fortement veinées en réseau, à réticulation fine et serrée, les 	inférieures gazonnantes, très longues, lancéolées ou linéaires, les supérieures élargies et 	embrassantes en coeur à la base 
-      - ombelles à 3-5 rayons 
-      - involucre à 3-5 folioles grandes, inégales, ovales-obtuses, parfois sublobées à la base 
-      - involucelle à 5-6 folioles libres, d'un vert jaunâtre, orbiculaires, obtuses, non mucronées
-      - fruit oblong, à côtes saillantes et ailées 
-      - vallécules à 3 bandelettes. '
-    ,'Juillet-août'
+   , '- Plante vivace de 40-50 cm, dressÃ©e, d"un vert glauque 
+      - tige pleine, simple ou presque simple, fouillÃ©e dans toute sa longueur 
+      - feuilles Ã  1 nervure, fortement veinÃ©es en rÃ©seau, Ã  rÃ©ticulation fine et serrÃ©e, les infÃ©rieures gazonnantes, trÃ¨s longues, lancÃ©olÃ©es ou linÃ©aires, 
+	    les supÃ©rieures Ã©largies et embrassantes en coeur Ã  la base 
+      - ombelles Ã  3-5 rayons 
+      - involucre Ã  3-5 folioles grandes, inÃ©gales, ovales-obtuses, parfois sublobÃ©es Ã  la base 
+      - involucelle Ã  5-6 folioles libres, d"un vert jaunÃ¢tre, orbiculaires, obtuses, non mucronÃ©es
+      - fruit oblong, Ã  cÃ´tes saillantes et ailÃ©es 
+      - vallÃ©cules Ã  3 bandelettes. '
+    ,'Juillet-aoÃ»t'
    );
 
 INSERT INTO Les_plantes VALUES 
    ( 26
    , 'Paprika' 
    , 'Ordre : Solanales, Famille : Solanaceae, Genre : Capsicum'
-   ,'Originaire du Mexique et appartenant à la famille des Solanacées, le piment d’ornement (Capsicum 	annum) est une plante annuelle qui forme un petit buisson assez touffu de 20 à 40cm de haut. 	Ses tiges très ramifiées portent des feuilles lancéolées vert brillant. Des fleurs blanches 	solitaires assez discrètes apparaissent à la fin du printemps à l’aisselle des feuilles. Des 	fruits petits mais nombreux se forment en fin d’été ou en début d’automne et restent décoratifs 	tout l’hiver. Ils ont une jolie forme pointue et déclinent selon leur stade de maturation de 	nombreuses nuances de couleurs, jaune, rouge, orange, blanc et même violet ou noir.'
+   ,'Originaire du Mexique et appartenant Ã  la famille des SolanacÃ©es, le piment dÂ’ornement (Capsicum annum) est une plante annuelle 
+     qui forme un petit buisson assez touffu de 20 Ã  40cm de haut. 	
+	 Ses tiges trÃ¨s ramifiÃ©es portent des feuilles lancÃ©olÃ©es vert brillant. 
+	 Des fleurs blanches solitaires assez discrÃ¨tes apparaissent Ã  la fin du printemps Ã  lÂ’aisselle des feuilles. 
+	 Des fruits petits mais nombreux se forment en fin dÂ’Ã©tÃ© ou en dÃ©but dÂ’automne et restent dÃ©coratifs 	tout lÂ’hiver. 
+	 Ils ont une jolie forme pointue et dÃ©clinent selon leur stade de maturation de nombreuses nuances de couleurs, jaune, rouge, orange, blanc et mÃªme violet ou noir.'
    , 'automne'
    );
 
@@ -361,14 +377,14 @@ INSERT INTO Les_plantes VALUES
    ( 27
    , 'Cannabis' 
    , 'Ordre : Rosales, Famille : Cannabaceae, Genre : Cannabis'
-   , '- Plante annuelle de 1-2 mètres, pubescente-rude, à odeur forte 
-      - tige dressée, raide, simple 
-      - feuilles opposées, pétiolées, palmatiséquées, à 5-7 segments lancéolés-acuminés, dentés, les 		supérieures souvent alternes et à 1-3 segments 
-      - fleurs vertes, dioïques, en panicule rameuse, les femelles munies chacune d'une bractée 
-      - périanthe mâle à 5 divisions égales, 5 étamines pendantes à filets courts et anthères 	terminales 
-      - périanthe femelle monosépale, enroulé autour de l'ovaire 
+   , '- Plante annuelle de 1-2 mÃ¨tres, pubescente-rude, Ã  odeur forte 
+      - tige dressÃ©e, raide, simple 
+      - feuilles opposÃ©es, pÃ©tiolÃ©es, palmatisÃ©quÃ©es, Ã  5-7 segments lancÃ©olÃ©s-acuminÃ©s, dentÃ©s, les supÃ©rieures souvent alternes et Ã  1-3 segments 
+      - fleurs vertes, dioÃ¯ques, en panicule rameuse, les femelles munies chacune d"une bractÃ©e 
+      - pÃ©rianthe mÃ¢le Ã  5 divisions Ã©gales, 5 Ã©tamines pendantes Ã  filets courts et anthÃ¨res terminales 
+      - pÃ©rianthe femelle monosÃ©pale, enroulÃ© autour de l"ovaire 
       - 2 longs stigmates filiformes 
-      - fruit subglobuleux, lisse, Cultivé en grand et parfois subspontané en divers pays, en France et 	en Corse. '
+      - fruit subglobuleux, lisse, CultivÃ© en grand et parfois subspontanÃ© en divers pays, en France et en Corse. '
     ,'Juin-septembre'
    );
 
@@ -376,26 +392,27 @@ INSERT INTO Les_plantes VALUES
    ( 28
    , 'Muguet' 
    , 'Ordre : Asparagales, Famille : Asparagaceae, Genre : Convallaria'
-   , '- Plante vivace de 10-20 cm, glabre, à souche rampante très fibreuse 
-      - tige simple, nue, enveloppée à la base, ainsi que les pétioles, par des gaines membraneuses 
-      - 2 feuilles radicales, l'inférieure paraissant sessile et la supérieure pétiolée, ovales-	lancéolées, glabres, lisses, à nervures convergentes
-      - fleurs d'un blanc pur, à odeur suave, penchées, 4-9, en courte grappe terminale, unilatérale, à 	bractées moitié plus courtes que le pédicelle 
-      - périanthe caduc, en cloche subglobuleuse, divisé jusqu'au milieu en 6 dents recourbées 
-      - 6 étamines, insérées à la base de périanthe 
+   , '- Plante vivace de 10-20 cm, glabre, Ã  souche rampante trÃ¨s fibreuse 
+      - tige simple, nue, enveloppÃ©e Ã  la base, ainsi que les pÃ©tioles, par des gaines membraneuses 
+      - 2 feuilles radicales, l"infÃ©rieure paraissant sessile et la supÃ©rieure pÃ©tiolÃ©e, ovales-lancÃ©olÃ©es, glabres, lisses, Ã  nervures convergentes
+      - fleurs d"un blanc pur, Ã  odeur suave, penchÃ©es, 4-9, en courte grappe terminale, unilatÃ©rale, Ã  bractÃ©es moitiÃ© plus courtes que le pÃ©dicelle 
+      - pÃ©rianthe caduc, en cloche subglobuleuse, divisÃ© jusqu"au milieu en 6 dents recourbÃ©es 
+      - 6 Ã©tamines, insÃ©rÃ©es Ã  la base de pÃ©rianthe 
       - style court, stigmate obtus 
-      - baie globuleuse, rouge, à 3 loges à 2 graines jaunâtres. '
+      - baie globuleuse, rouge, Ã  3 loges Ã  2 graines jaunÃ¢tres. '
     ,'Avril-juin'
    );
 
  INSERT INTO Les_plantes VALUES 
    ( 29
-   , 'Bâton du Diable' 
+   , 'BÃ¢ton du Diable' 
    , 'Ordre : Asterales, Famille : Asteraceae, Genre : Cirsium'
-   , '- Plante bisannuelle de 5-10 dm, dressée, presque simple ou rameuse, ailée-épineuse, pubescente 
-      - feuilles pennatipartites un peu aranéeuses en dessous, hispidules en dessus, très longuement 	décurrentes, à décurrence lobulée-épineuse 
-      - involucre ovoïde un peu pubescent, à folioles dressées, les moyennes et les extérieures 	lancéolées, à pointe très courte, tachée de noir au sommet, les intérieures linéaires à pointe 	purpurine 
-      - akènes petites, linéaires-oblongs, jaunâtres 
-      - capitules agglomérés 
+   , '- Plante bisannuelle de 5-10 dm, dressÃ©e, presque simple ou rameuse, ailÃ©e-Ã©pineuse, pubescente 
+      - feuilles pennatipartites un peu aranÃ©euses en dessous, hispidules en dessus, trÃ¨s longuement dÃ©currentes, Ã  dÃ©currence lobulÃ©e-Ã©pineuse 
+      - involucre ovoÃ¯de un peu pubescent, Ã  folioles dressÃ©es, les moyennes et les extÃ©rieures lancÃ©olÃ©es, Ã  pointe trÃ¨s courte, tachÃ©e de noir au sommet, 
+	    les intÃ©rieures linÃ©aires Ã  pointe purpurine 
+      - akÃ¨nes petites, linÃ©aires-oblongs, jaunÃ¢tres 
+      - capitules agglomÃ©rÃ©s 
       - fleurs purpurines. '
     ,'Juillet-septembre'
    );
@@ -405,15 +422,16 @@ INSERT INTO Les_plantes VALUES
    , 'Violette blanche' 
    , 'Ordre : Malpighiales, Famille : Violaceae, Genre : Viola'
    , '- Plante acaule, poilue 
-      - souche grêle, à rejets rampants, non radicants, florifères 
-      - feuilles radicales adultes grandes, ovales-oblongues en coeur, crénelées, pubescentes, d'un 	vert clair 
-      - stipules lancéolées-linéaires, à cils dit milieu égalant leur largeur 
-      - fleurs blanches, assez grandes, à odeur suave 
-      - pédoncules fructifères couchés 
-      - sépales oblongs, obtus 
-      - éperon jaunâtre 
+      - souche grÃªle, Ã  rejets rampants, non radicants, florifÃ¨res 
+      - feuilles radicales adultes grandes, ovales-oblongues en coeur, crÃ©nelÃ©es, pubescentes, d"un vert clair 
+      - stipules lancÃ©olÃ©es-linÃ©aires, Ã  cils dit milieu Ã©galant leur largeur 
+      - fleurs blanches, assez grandes, Ã  odeur suave 
+      - pÃ©doncules fructifÃ¨res couchÃ©s 
+      - sÃ©pales oblongs, obtus 
+      - Ã©peron jaunÃ¢tre 
       - stigmate en crochet aigu 
-      - capsule subglobuleuse, verdâtre, poilue. Plante polymorphe. Varie à feuilles d'un vert sombre, 	hérissées, fleurs violettes à gorge blanche ou blanches avec éperon et capsule violacées  
-      - feuilles et capsule brièvement pubescentes, vertes, fleurs violettes, blanches jusqu'au tiers '
-    ,'Février-avril'
+      - capsule subglobuleuse, verdÃ¢tre, poilue. Plante polymorphe. Varie Ã  feuilles d"un vert sombre, hÃ©rissÃ©es, 
+	    fleurs violettes Ã  gorge blanche ou blanches avec Ã©peron et capsule violacÃ©es  
+      - feuilles et capsule briÃ¨vement pubescentes, vertes, fleurs violettes, blanches jusqu"au tiers '
+    ,'FÃ©vrier-avril'
    );
