@@ -35,15 +35,14 @@ Ensuite, nous nous sommes concentrés sur **la base de données**. Nous avons d'
 ![create](./SQL/codecreate.PNG)  
   
 ![insert](./SQL/codeinsert.PNG)  
-  
-La deuxième partie s'est focalisée sur **le développement logiciel**, nous avons commencé à créer l'application avec **Java** où nous avons eu divers problèmes dues à l'utilisation nouvelle de ce langage. Les problèmes que nous avons rencontrés lors de la conception du logiciel en **Java** sont ; la lecture et la manipulation, non pas de la base de données mais de l'outils utilisé. Ainsi nous avons optés pour le langage **Python** qui offre plus de possibilités et est plus facile en termes d'utilisations. Par rapport aux images, **Python** nous permet de les traduire et, ainsi, de les afficher. Cependant, l'optimisation de **Tkinter** dans **Python** est restée relativement complexe. L'ensemble nous a pris du _22 Mars jusqu'au début Mai_.  
-
-![saveData](./images/saveData.PNG)  
-  
-
+   
 A première vue, nous avons pensé à l'utilisation d'un **Broker/MQTT**, mais son utilisation complexe n'était pas adpaté, nous avons donc décidé de partir sur un module **Arduino** où l'extraction, l'utilisation et la manipulation des données nous étaient plus simple à élaborer.  
 
 ![plante connectée](./images/outilarduino.PNG)  
-  
+   
+La troisième partie s'est focalisée sur **le développement logiciel**, nous avons commencé à créer l'application avec **Java** où nous avons eu divers problèmes dues à l'utilisation nouvelle de ce langage. Les problèmes que nous avons rencontrés lors de la conception du logiciel en **Java** sont ; la lecture et la manipulation, non pas de la base de données mais de l'outils utilisé. Ainsi nous avons optés pour le langage **Python** qui offre plus de possibilités et est plus facile en termes d'utilisations. Par rapport aux images, **Python** nous permet de les traduire et, ainsi, de les afficher. Cependant, l'optimisation de **Tkinter** dans **Python** est restée relativement complexe. L'ensemble nous a pris du _22 Mars jusqu'au début Mai_.  
+
+![saveData](./images/saveData.PNG)  
+   
 Pour finir, nous avons finalisés nos codes durant le mois de Mai, vérifié chaque détails afin d'être prêt pour le **jour J**.  
 
