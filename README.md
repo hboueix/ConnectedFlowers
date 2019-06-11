@@ -23,7 +23,7 @@ Vous trouverez dans ce répertoire **GIT** plusieurs dossiers :
 Tous d'abord, il vous faudra vous munir au préalable d'**une plante** que vous voulez calibrer et tester.  
 Ensuite, raccordez _le testeur d'humidité_, _le testeur de température_ et _le testeur de luminosité_ à la plante. Par précaution, vous pourrez vérifier le cablâge de l'outils avec l'image ci-dessous.
 
-![plante connectée](./images/outilsarduino.JPG)  
+![plante connectée](./images/outilarduino.PNG.JPG)  
   
 Et pour finir, une fois la plante raccordée à l'outils **Arduino**, branchez l'outils via le câble USB fournis et lancer le logiciel **Python** `arduino.py`.  
 
