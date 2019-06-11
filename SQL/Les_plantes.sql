@@ -24,7 +24,7 @@ INSERT INTO Les_plantes VALUES /*Creation de la 1er plante*/
       - les inferieures femelles, à perianthe à 5 lobes et à tube decurrent sur le pedicelle, 2 styles lateraux 
       - fruits très petites, drupaces, renfermes dans le receptacle accrescent et à la fin caduc.'/*Sa description*/
     ,'Juin-septembre'/*Son temps de fleuraison*/
-    ,'./photo_plante/figuier.jpg'/*Chemin de l'image*/
+    ,'./sql/photo_plante/figuier.jpg'/*Chemin de l'image*/
     ,'25 %'/*humdite sol*/
     ,'25 C'/*Sa temperature*/
     ,'75 %'/*Sa luminosite*/
@@ -42,7 +42,7 @@ INSERT INTO Les_plantes VALUES
       - grappe fructifère longue, peu fournie 
       - siliques ascendantes, grêles, flexueuses ou courbees, glabres ou finement pubescentes.'
    ,'Mai-juin'
-   ,'./photo_plante/julienne_des_dames.jpg'
+   ,'./sql/photo_plante/julienne_des_dames.jpg'
    ,'50 %'
    ,'15 C'
    ,'75 %'
@@ -61,7 +61,7 @@ INSERT INTO Les_plantes VALUES
       - filets des etamines glabres 
       - samares pubescentes ou glabres, à coques peu renflees, lisses, à ailes etalees horizontalement,non retrecies à la base.'
     ,'Mai'
-    ,'./photo_plante/erable_champêtre.jpg'
+    ,'./sql/photo_plante/erable_champetre.jpg'
     ,'37.5 %'
     ,'20 C'
     ,'87.5 %'
@@ -78,7 +78,7 @@ INSERT INTO Les_plantes VALUES
 	   et de 1 carpelle. La fleur est actinomorphe
 	  -Le fruit est une gousse'
     ,'Janvier-mars'
-    ,'./photo_plante/mimosa.jpg'
+    ,'./sql/photo_plante/mimosa.jpg'
     ,'25 %'
     ,'30 C'
     ,'87.5 %'
@@ -98,7 +98,7 @@ INSERT INTO Les_plantes VALUES
       - glumes très inegales, l"inferieure ovale-triangulaire aiguë, trinervee, trois fois plus courte que la superieure acuminee 
       - glumelle sterile unique. '
     ,'Juillet-octobre'
-    ,'./photo_plante/millet_capilaire.jpg'
+    ,'./sql/photo_plante/millet_capilaire.jpg'
     ,'12.5 %'
     ,'25 C'
     ,'100 %'
@@ -115,7 +115,7 @@ INSERT INTO Les_plantes VALUES
       - petales et filets des etamines glabres 
       - samares glabres, petites, à coques très convexes, veinees, à ailes dressees-convergentes, retrecies à la base. '
     ,'Avril-mai'
-    ,'./photo_plante/erable_de_montpellier.jpg'
+    ,'./sql/photo_plante/erable_de_montpellier.jpg'
     ,'25 %'
     ,'30 C'
     ,'87.5 %'
@@ -136,7 +136,7 @@ INSERT INTO Les_plantes VALUES
       - fruit ovoïde-subglobuleux, non comprime, glabre 
       - mericarpes à 5 côtes saillantes, epaisses, carenees, les marginales un peu plus larges. Varie à tige naine de 5-15 cm, ou haute de 1 à 2 mètres, ombelles à 10-20 rayons.'
     ,'Juin-octobre'
-    ,'./photo_plante/cigue_des_jardins.jpg'
+    ,'./sql/photo_plante/cigue_des_jardins.jpg'
     ,'37.5 %'
     ,'10 C'
     ,'75 %'
@@ -158,7 +158,7 @@ INSERT INTO Les_plantes VALUES
       - corolle glabre à la gorge 
       - carpelles mûrs noirs, petites, finement rides. '
     ,'Avril-juin'
-    ,'./photo_plante/henne_jaune.jpg'
+    ,'./sql/photo_plante/henne_jaune.jpg'
     ,'40 %'
     ,'25 C'
     ,'75 %'
@@ -180,7 +180,7 @@ INSERT INTO Les_plantes VALUES
       - mericarpes à 5 côtes, les trois dorsales saillantes, filiformes, carenees, les deux marginales dilatees en aile aplanie 
       - graine à face commissurale plane. '
     ,'Juillet'
-    ,'./photo_plante/aneth.jpg'
+    ,'./sql/photo_plante/aneth.jpg'
     ,'25 %'
     ,'20 C'
     ,'75 %'
@@ -197,7 +197,7 @@ INSERT INTO Les_plantes VALUES
       - akènes longs de 6 à 7 mm 
       - fleurs purpurines. '
     ,'Juillet-août'
-    ,'./photo_plante/bardane_tomenteuse.jpg'
+    ,'./sql/photo_plante/bardane_tomenteuse.jpg'
     ,'37.5 %'
     ,'15 C'
     ,'87.5 %'
@@ -217,7 +217,7 @@ INSERT INTO Les_plantes VALUES
       - filets steriles obtus 
       - follicules grands, ventrus. Varie à fleurs petites, d"un violet noirâtre, à etamines longuement saillantes et à folioles plus decoupees.'
     ,'Mai-Juillet'    
-    ,'./photo_plante/aiglantine.jpg'
+    ,'./sql/photo_plante/aiglantine.jpg'
     ,'37.5 %'
     ,'20 C'
     ,'62.5 %'
@@ -237,7 +237,7 @@ INSERT INTO Les_plantes VALUES
       - bracteoles egalant le fruit 
       - calice à tube egalant le pedicelle, à côtes aussi larges que les sillons, à lobes ovales-lanceoles, attenues en arête aussi longue qu"eux. Plante polymorphe.'
     ,'Mai-septembre'
-    ,'./photo_plante/armeria_des_sables.jpg'
+    ,'./sql/photo_plante/armeria_des_sables.jpg'
     ,'40-50 %'
     ,'10-15 C'
     ,'80-90 %'
@@ -256,7 +256,7 @@ INSERT INTO Les_plantes VALUES
       - calice velu, elargi à la gorge, à 5 dents egales etalees et brièvement mucronees 
       - corolle à tube depassant la gorge du calice, à lèvre superieure couverte en dehors de poils blancs appliques. '
     ,'Mai-septembre'
-    ,'./photo_plante/ballote_noire.jpg'
+    ,'./sql/photo_plante/ballote_noire.jpg'
     ,'37.5 %'
     ,'25 C'
     ,'75 %'
@@ -276,7 +276,7 @@ INSERT INTO Les_plantes VALUES
       - 1 style très court, stigmate en tête 
       - baie ovoïde ou globuleuse, noire ou blanchâtre, acidulee à l"etat sauvage, à 1 loge et à 8 graines osseuses.'
     ,'juin '
-    ,'./photo_plante/vigne.jpg'
+    ,'./sql/photo_plante/vigne.jpg'
     ,'50 %'
     ,'25 C'
     ,'75 %'
@@ -295,7 +295,7 @@ INSERT INTO Les_plantes VALUES
       - corolle egalant le calice, en entonnoir, à tube court, à gorge fermee par 5 ecailles obtuses convexes et conniventes, à 5 lobes obtus 
       - carpelles contigus, ovales-obtus, verruqueux, soudes à l"axe central par le sommet de leur 	angle interne.'
     ,'Avril-août'
-    ,'./photo_plante/portefeuille.jpg'
+    ,'./sql/photo_plante/portefeuille.jpg'
     ,'37.5 %'
     ,'20 C'
     ,'75 %'
@@ -315,7 +315,7 @@ INSERT INTO Les_plantes VALUES
       - capitules globuleux, assez petites, 3 à 4 mm de diamètre, brièvement pedicelles, penches, en grande panicule feuillee à rameaux dresses 
       - plante très odorante.'
     ,'Juillet-septembre'
-    ,'./photo_plante/absinthe.jpg'
+    ,'./sql/photo_plante/absinthe.jpg'
     ,'25 %'
     ,'20 C'
     ,'100 %'
@@ -334,7 +334,7 @@ INSERT INTO Les_plantes VALUES
       - capitules grands, 7 à 8 cm de diamètre, solitaires ou assez souvent 3-4 terminant les rameaux opposes 
       - fleurs d"un jaune-orange.'
     ,'Juin-juillet'
-    ,'./photo_plante/arnica.jpg'
+    ,'./sql/photo_plante/arnica.jpg'
     ,'37.5 %'
     ,'10 C'
     ,'100 %'
@@ -350,7 +350,7 @@ INSERT INTO Les_plantes VALUES
 	  La taille de ce Gremil est generalement de 30 cm de hauteur et il s"etend sur environ 1 mètre de long avec de nombreuses pousses qui drageonnent. 
 	  Les feuilles sont etroites.'
     ,'Avril-juin'
-    ,'./photo_plante/julienne_des_dames.jpg'
+    ,'./sql/photo_plante/julienne_des_dames.jpg'
     ,'25 %'
     ,'25 C'
     ,'62.5 %'
@@ -371,7 +371,7 @@ INSERT INTO Les_plantes VALUES
       - graines finement ponctuees. Varie à racine grosse, charnue, comestible 
       - à racine grêle et à graines oleagineuses'
     ,'Avril-juin'
-    ,'./photo_plante/colza.jpg'
+    ,'./sql/photo_plante/colza.jpg'
     ,'50 %'
     ,'20 C'
     ,'75 %'
@@ -393,7 +393,7 @@ INSERT INTO Les_plantes VALUES
       - gousse incluse, ovale-comprimee, à bec ensiforme 2 fois plus long quelle, non stipitee, velue, 	indehiscente, à une seule graine.
 	    Varie à plante plus herissee, plus robuste, fleurs plus nombreuses çà têtes grosses, dents du calice fortement ciliees-plumeuses.'
     ,'Mai-octobre'
-    ,'./photo_plante/Psoralee.jpg'
+    ,'./sql/photo_plante/Psoralee.jpg'
     ,'37.5 %'
     ,'25 C'
     ,'62.5 %'
@@ -412,7 +412,7 @@ INSERT INTO Les_plantes VALUES
       - celle-ci moyenne (à peine 2 cm), glabre, plus longue que large, divisee jusqu"au tiers, à lobes lanceoles, peu etales 
       - capsule dressee. '
     ,'Mai-août'
-    ,'./photo_plante/bâton_saint_jacques.jpg'
+    ,'./sql/photo_plante/baton_saint_jacques.jpg'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
@@ -431,7 +431,7 @@ INSERT INTO Les_plantes VALUES
       - 8 etamines, incluses 
       - capsule velue, globuleuse, à cloisons opposees aux sutures des 4 valves. Varie à rameaux velus-grisâtres'
     ,'Juillet-octobre'
-    ,'./photo_plante/callune.jpg'
+    ,'./sql/photo_plante/callune.jpg'
     ,'37.5 %'
     ,'15 C'
     ,'62.5 %'
@@ -452,7 +452,7 @@ INSERT INTO Les_plantes VALUES
       - silicules ovoïdes-globuleuses, ridees en reseau, indehiscentes, à 1 graine globuleuse 
       - style court, epais, conique. '
     ,'Avril-juillet'
-    ,'./photo_plante/calepine.jpg'
+    ,'./sql/photo_plante/calepine.jpg'
     ,'25 %'
     ,'25 C'
     ,'75 %'
@@ -470,7 +470,7 @@ INSERT INTO Les_plantes VALUES
       - capitules assez grands, solitaires, terminant les rameaux 
       - fleurs jaunes. Espèce polymorphe dans la region mediterraneenne.'
     ,'Avril-octobre'
-    ,'./photo_plante/fleur_de_tout_les_mois.jpg'
+    ,'./sql/photo_plante/fleur_de_tout_les_mois.jpg'
     ,'25 %'
     ,'25 C'
     ,'75 %'
@@ -491,7 +491,7 @@ INSERT INTO Les_plantes VALUES
       - fruit oblong, à côtes saillantes et ailees 
       - vallecules à 3 bandelettes. '
     ,'Juillet-août'
-    ,'./photo_plante/buplèvre_anguleux.jpg'
+    ,'./sql/photo_plante/buplevre_anguleux.jpg'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
@@ -509,7 +509,7 @@ INSERT INTO Les_plantes VALUES
 	 Des fruits petits mais nombreux se forment en fin d?ete ou en debut d?automne et restent decoratifs 	tout l?hiver. 
 	 Ils ont une jolie forme pointue et declinent selon leur stade de maturation de nombreuses nuances de couleurs, jaune, rouge, orange, blanc et même violet ou noir.'
     , 'automne'
-    ,'./photo_plante/paprika.jpg'
+    ,'./sql/photo_plante/paprika.jpg'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
     ,'Pas ou manque de donnees'
@@ -529,7 +529,7 @@ INSERT INTO Les_plantes VALUES
       - 2 longs stigmates filiformes 
       - fruit subglobuleux, lisse, Cultive en grand et parfois subspontane en divers pays, en France et en Corse. '
     ,'Juin-septembre'
-    ,'./photo_plante/cannabis.jpg'
+    ,'./sql/photo_plante/cannabis.jpg'
     ,'37.5 %'
     ,'20 C'
     ,'87.5 %'
@@ -549,7 +549,7 @@ INSERT INTO Les_plantes VALUES
       - style court, stigmate obtus 
       - baie globuleuse, rouge, à 3 loges à 2 graines jaunâtres. '
     ,'Avril-juin'
-    ,'./photo_plante/muguet.jpg'
+    ,'./sql/photo_plante/muguet.jpg'
     ,'50 %'
     ,'0 C'
     ,'75 %'
@@ -568,7 +568,7 @@ INSERT INTO Les_plantes VALUES
       - capitules agglomeres 
       - fleurs purpurines. '
     ,'Juillet-septembre'
-    ,'./photo_plante/baton_du_diable.jpg'
+    ,'./sql/photo_plante/baton_du_diable.jpg'
     ,'50 %'
     ,'10 C'
     ,'75 %'
@@ -592,7 +592,7 @@ INSERT INTO Les_plantes VALUES
 	    fleurs violettes à gorge blanche ou blanches avec eperon et capsule violacees  
       - feuilles et capsule brièvement pubescentes, vertes, fleurs violettes, blanches jusqu"au tiers '
     ,'Fevrier-avril'
-    ,'./photo_plante/violette_blanche.jpg'
+    ,'./sql/photo_plante/violette_blanche.jpg'
     ,'37.5 %'
     ,'25 C'
     ,'50 %'

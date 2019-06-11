@@ -37,15 +37,18 @@ void loop() {
   }
 */
 
-  Serial.print("HumiSensor : ");
-  Serial.println(humSensorValue);
+  Serial.print("Humidite : ");
+  Serial.print(humSensorValue);
+  Serial.println(" %");
 
-  Serial.print("LightSensor : ");
-  Serial.println(lightSensorValue);
+  Serial.print("Luminosite : ");
+  Serial.print(lightSensorValue);
+  Serial.println(" %");
   //Serial.println("LightSensor resistance value : ");
   //Serial.println(Rsensor,DEC);//show the light intensity on the serial monitor;
-  Serial.print("TempSensor : "); 
-  Serial.println(temp);
-
+  Serial.print("Temperature : "); 
+  Serial.print(temp);
+  Serial.println(" C");
+  
   delay(1000);
 }

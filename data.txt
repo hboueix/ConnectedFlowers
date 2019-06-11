@@ -1,0 +1,4 @@
+2019-06-11 22:38:38
+Humidite : 0.01 %
+Luminosite : 0.50 %
+Temperature : 20.74 C
