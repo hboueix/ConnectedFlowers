@@ -2,19 +2,19 @@
 
 ## Arborescence  
 
-Vous trouverez dans ce répertoire **GIT** plusieurs dossiers :  
+Vous trouverez dans ce répertoire Git :  
 
-        - Dans Gestion de projets, il vous sera fournis le GANNT, le MCD et les membres du groupe.   
+- Dans [Gestion](./Gestion de projet), il vous sera fournis le GANNT, le MCD et les membres du groupe.   
 
-        - Dans SQL se trouve le code source de la base de données SQL ainsi qu'un dossier d'images.  
+- Dans SQL se trouve le code source de la base de données SQL ainsi qu'un dossier d'images.  
 
-        - Dans Java, le code source que nous avons réalisé mais qui n'est pas utilisé pour le moment.  
+- Dans Java, le code source que nous avons réalisé mais qui n'est pas utilisé pour le moment.  
 
-        - Dans Sources Arduino, vous y retrouverez le code nécessaire de votre matèriel Arduino.  
+- Dans Sources Arduino, vous y retrouverez le code nécessaire de votre matèriel Arduino.  
 
-        - Le plus important, vous trouverez le code python pour déployé Arduino et son application.  
+- Le plus important, vous trouverez le code python pour déployé Arduino et son application.  
 
-        - Et pour finir, fichier texte où plusieurs données y sont stockés.
+- Et pour finir, fichier texte où plusieurs données y sont stockés.
 
 
 ## Indications relatives au déploiement  
@@ -32,9 +32,9 @@ Pour commencer, nous avons créés le **MCD** pour pouvoir visualiser et commenc
 
 Ensuite, nous nous sommes concentrés sur **la base de données**. Nous avons d'abord pensés à utiliser **MySQL Server**, puis nous nous sommes penchés sur **MariaDB** pour son utilisation plus facile et instinctive ce qui nous aussi permis de mettre le chemin des images au lieu des images elle-même. Ensuite lors des recherches effectuées des plantes et de leurs caractéristiques, certaines plantes n'avaient pas assez de documentations ce qui nous a néccessité de plus ample recherche. La plupart des données collecté proviennent du site `"tela-botanica.org"`. La réalisation de la base de données s'est poursuivis du _18 Mars jusqu'au 24 Avril_.  
 
-![create](./SQL/codecreate.PNG)  
+![create](./images/codecreate.PNG)  
   
-![insert](./SQL/codeinsert.PNG)  
+![insert](./images/codeinsert.PNG)  
    
 A première vue, nous avons pensé à l'utilisation d'un **Broker/MQTT**, mais son utilisation complexe n'était pas adpaté, nous avons donc décidé de partir sur un module **Arduino** où l'extraction, l'utilisation et la manipulation des données nous étaient plus simple à élaborer.  
 

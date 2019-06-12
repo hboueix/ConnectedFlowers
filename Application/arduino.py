@@ -51,7 +51,8 @@ def createTab():   # Crée un tableau avec la plante sélectionnée
     for key, Nom_plante, Categorie_plante, Description_plante, Periode_de_fleuraison, Photo_plante, Humidite_optimal_du_sol, Temperature_optimale, Luminosite_optimale in cursor:
         query.update({key : {"Nom_plante": Nom_plante, "Categorie_plante": Categorie_plante, "Description_plante": Description_plante, "Periode_de_fleuraison": Periode_de_fleuraison, "Photo_plante": Photo_plante, "Humidite_optimal_du_sol": Humidite_optimal_du_sol, "Temperature_optimale": Temperature_optimale, "Luminosite_optimale": Luminosite_optimale}})
 
-    tableauBDD(fen, query, 2, 9, True).grid(row = 3, columnspan = 3)
+    Label(fen, text= 'Caractéristiques de la plante sélectionnée :', font = '-size 22').grid(row = 3, column = 0, sticky = 'w', pady = 5)
+    tableauBDD(fen, query, 2, 9, True).grid(row = 4, columnspan = 3)
 
     cursor = mariadb_connection.cursor()
     cursor.execute("SELECT * FROM historique WHERE Nom_plante = %s", (Nom_plantes[planteBDD.curselection()[0]],))
@@ -60,7 +61,8 @@ def createTab():   # Crée un tableau avec la plante sélectionnée
     for key, Date_enregistrement, Nom_plante, Humidite, Luminosite, Temperature in cursor:
         query.update({key : {"Date_enregistrement": Date_enregistrement, "Nom_plante": Nom_plante, "Humidite": Humidite, "Luminosite": Luminosite, "Temperature": Temperature}})
 
-    tableauBDD(fen, query, 5, 6, False).grid(row = 5, columnspan = 3)
+    Label(fen, text= 'Historique de la plante sélectionnée :', font = '-size 22').grid(row = 5, column = 0, sticky = 'w', pady = 5)
+    tableauBDD(fen, query, 5, 6, False).grid(row = 6, columnspan = 3)
 
 
 def saveInBDD():  # Enregistre les données dans la BDD
@@ -139,7 +141,10 @@ for nom in cursor:
 
 fen = Tk()
 
+Label(fen, text = 'Plant Plus', font = '-size 30').grid(row = 0, column = 0)
+
     # Données captées
+Label(fen , text = 'Données récupérées par les capteurs :', font = '-size 16').grid(row = 1, column = 0, sticky = 'e')
 dataSensor = Label(fen, text = saveData())
 dataSensor.grid(row = 1, column = 1)
     # Bouton enregistrer
@@ -161,15 +166,16 @@ dataSensor.grid(row = 1, column = 1)
 # tab = tableauBDD(canva, query)
 # tab.grid(row = 1, column = 1)
 
+
 Button(fen, text = 'Enregistrer', command = saveInBDD).grid(row = 2, column = 1)
     # Liste plantes
+
 planteBDD = Listbox(fen, selectmode = 'single', width = 20, height = 10, exportselection = 0)
 planteBDD.grid(row = 1, column = 2)
 for nom in Nom_plantes:
     planteBDD.insert(END, nom)
     #Bouton afficher caractéristiques
 Button(fen, text = 'Afficher', command = createTab).grid(row = 2, column = 2, pady = 10)
-
 
 
 
