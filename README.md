@@ -4,7 +4,7 @@
 
 Vous trouverez dans ce répertoire Git :  
 
-- Dans [Gestion](./Gestion de projet), il vous sera fournis le GANNT, le MCD et les membres du groupe.   
+- Dans [Gestion](./"Gestion de projet"), il vous sera fournis le GANNT, le MCD et les membres du groupe.   
 
 - Dans SQL se trouve le code source de la base de données SQL ainsi qu'un dossier d'images.  
 
