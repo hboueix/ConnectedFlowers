@@ -47,7 +47,7 @@ Pour les logiciels utilisés, nous nous sommes concentrés sur :
   
 Voici maintenant notre schéma de montage :  
   
-[Montage]!(./images/outilarduino.PNG)  
+![Montage](./images/outilarduino.PNG)  
   
 Le capteur d'humidité réellement utilisé pour le montage n'est malheuresement pas le même que sur le schéma.  
   
